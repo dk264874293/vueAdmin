@@ -10,7 +10,6 @@ import store from './store'
 
 Vue.use(VueAxios, axios)
 Vue.use(ElementUI)
-Vue.use(Vuex)
 Vue.use(echarts)
 
 new Vue({
